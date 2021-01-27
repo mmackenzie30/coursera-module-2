@@ -76,7 +76,7 @@
       border-radius: 5px;
       box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
       margin: 20px;
-      word-wrap: break-word;
+      overflow: hidden;
     }
     
     .container p {
