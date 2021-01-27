@@ -76,6 +76,7 @@
       border-radius: 5px;
       box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
       margin: 20px;
+      word-wrap: break-word;
     }
     
     .container p {
@@ -91,6 +92,7 @@
       left: 1px;
       padding: 5px 50px;
       border: 1px #000000 solid;
+      border-radius: 5px;
       font-size: 1.25em;
       }
     
