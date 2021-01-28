@@ -22,7 +22,9 @@
   /* Simple Responsive Framework. */
   .row {
     width: 100%;
+    height:fit-content;
     padding: 0 15px; 
+  
   }
 
 
@@ -35,6 +37,7 @@
   .col-lg-11, .col-lg-12 
     {
       float: left;
+      height: fit-content;
     }
     .col-lg-4{
       width: 33.33%;
@@ -75,12 +78,11 @@
       border: 3px solid;
       border-radius: 5px;
       box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
-      margin: 20px;
-      overflow: hidden;
+      margin: 10px;
     }
     
     .container p {
-      height: 120px;
+      height: fit-content;
       clear: right;
       padding: 10px;
     }
